@@ -2,3 +2,5 @@
 [![Actions Status](https://github.com/achevozerov/python-project-49/workflows/hexlet-check/badge.svg)](https://github.com/achevozerov/python-project-49/actions)
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/8fe050c33784d0717b80/maintainability)](https://codeclimate.com/github/achevozerov/python-project-49/maintainability)
+
+[![asciicast](https://asciinema.org/a/tJIfYdGARGOHg18C7YpDW4KDX.svg)](https://asciinema.org/a/tJIfYdGARGOHg18C7YpDW4KDX)
