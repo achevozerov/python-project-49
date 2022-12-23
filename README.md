@@ -3,4 +3,8 @@
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/8fe050c33784d0717b80/maintainability)](https://codeclimate.com/github/achevozerov/python-project-49/maintainability)
 
+### Brain-even
 [![asciicast](https://asciinema.org/a/tJIfYdGARGOHg18C7YpDW4KDX.svg)](https://asciinema.org/a/tJIfYdGARGOHg18C7YpDW4KDX)
+
+### Brain-calc
+[![asciicast](https://asciinema.org/a/D0acj2HsMDFW1Lx2ebvb4Bek5.svg)](https://asciinema.org/a/D0acj2HsMDFW1Lx2ebvb4Bek5)
