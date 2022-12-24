@@ -61,7 +61,7 @@ def make_progression():
         progression.append(progression[i] + step)
 
     progression_chars = list(map(str, progression))
-    progression_chars[pos_index] = "**"
+    progression_chars[pos_index] = ".."
 
     q = ' '.join(progression_chars)
     answer = str(progression[pos_index])
