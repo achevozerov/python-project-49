@@ -53,8 +53,8 @@ def make_gcd():
 
 def make_progression():
     step = random.randint(1, 9)
-    pos_index = random.randint(0, 9)
     progression_len = random.randint(5, 10)
+    pos_index = random.randint(0, progression_len)
     progression = [random.randint(1, 10)]
 
     for i in range(0, progression_len):
