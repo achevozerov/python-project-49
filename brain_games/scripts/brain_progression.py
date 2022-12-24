@@ -3,7 +3,7 @@ from brain_games import game_source as gs
 
 def main(difficult=3):
     name = gs.greetings()
-    print('Answer "yes" if the number is even, otherwise answer "no".')
+    print('What number is missing in the progression?')
 
     for i in range(0, difficult):
 
