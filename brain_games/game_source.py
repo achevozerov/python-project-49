@@ -20,6 +20,7 @@ def make_even():
     else:
         answer = 'no'
 
+    q = str(q)
     return (q, answer)
 
 

@@ -10,6 +10,7 @@ def main(difficult=3):
         q, answer = gs.make_even()
 
         if not gs.ask_question(q, answer):
+            print(f'Let\'s try again, {name}!')
             break
 
         if i + 1 == difficult:
