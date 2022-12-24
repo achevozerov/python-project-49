@@ -66,6 +66,7 @@ def make_progression():
     answer = str(progression[pos_index])
     return (q, answer)
 
+
 def make_prime():
     num = random.randint(4, 100)
     answer = 'yes'
@@ -77,6 +78,7 @@ def make_prime():
     q = str(num)
 
     return (q, answer)
+
 
 def ask_question(q: str, answer: str):
     print(f'Question: {q}')
