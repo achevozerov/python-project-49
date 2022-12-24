@@ -66,6 +66,17 @@ def make_progression():
     answer = str(progression[pos_index])
     return (q, answer)
 
+def make_prime():
+    num = random.randint(4, 100)
+    answer = 'yes'
+
+    for i in range(2, num):
+        if num % i == 0:
+            answer = 'no'
+
+    q = str(num)
+
+    return (q, answer)
 
 def ask_question(q: str, answer: str):
     print(f'Question: {q}')
