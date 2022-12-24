@@ -89,5 +89,7 @@ def ask_question(q: str, answer: str):
         print('Correct!')
         return True
     else:
-        print(f"'{user_answer}' is wrong answer ;(. Correct answer was '{answer}'.")
+        msg = f"'{user_answer}' is wrong answer ;(. " \
+            f"Correct answer was '{answer}'"
+        print(msg)
         return False
